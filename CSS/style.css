@@ -17,7 +17,7 @@ header {
 #logo {
   text-decoration: none;
   color: #6070ff;
-  margin: 23.94px auto 23.94px 8px;
+  margin: 24px auto 24px 20px;
   width: 100vm;
   height: 20px;
   font-size: 18px;
@@ -100,15 +100,27 @@ form li {
 }
 
 .home p {
-  width: 327px;
+  width: 270px;
+  font-size: 16px;
 }
 
+
 .home-content {
-  margin: 7% 0% 0% 8%;
+  /* margin: 0% 0% 0% 8%; */
+  color: #172B4D;
+}
+
+.home-content p {
+ color: #172B4D;
+
+}
+
+.connect p {
+  color: #7F8CFF;
 }
 
 .home li {
-  padding-left: 8px;
+  padding-right: 20px;
 }
 
 .home ul {
